@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BookStoreApp</string>
+    <string name="navigation_drawer_open">Drawer is now opened</string>
+    <string name="navigation_drawer_close">Drawer is now closed</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_book_list">BookListActivity</string>
+    <string name="title_activity_login">Login</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register</string>
+</resources>

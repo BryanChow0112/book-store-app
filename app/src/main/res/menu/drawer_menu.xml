@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/addbook"
+        android:title="Add Book" />
+    <item
+        android:id="@+id/removelastbook"
+        android:title="Remove Last" />
+    <item
+        android:id="@+id/removeallbooks"
+        android:title="Remove All" />
+    <item
+        android:id="@+id/listall"
+        android:title="List All" />
+    <item
+        android:id="@+id/deleteexpensivebook"
+        android:title="Delete Expensive Book" />
+    <item
+        android:id="@+id/logout"
+        android:title="Log Out" />
+    <item
+        android:id="@+id/closeapp"
+        android:title="Close" />
+</menu>
